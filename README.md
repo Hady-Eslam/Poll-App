@@ -1,13 +1,13 @@
 # Project Name
-Short Link
+Poll App
 
 
 # Project Description
-Website For Making Short Links Like bit.ly
+Website For Making Polls
 
 
 # What Project Do
 1. Register, Authenticate Reset User Password
-2. Profile Link Of User
-3. Create Short Link
-4. Edit Link, Delete Link, Redirect To Link
+2. Create, Update, Delete Poll
+3. Add Poll Comment
+4. Print Statics About Poll Result
